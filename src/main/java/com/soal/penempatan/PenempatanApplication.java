@@ -16,12 +16,12 @@ public class PenempatanApplication {
 	//Soal 1
 /*		Scanner a = new Scanner(System.in);
 		while (true) {
-			System.out.print("Silahkan Input Value N: ");
+			System.out.print("Silahkan Masukkan Nilai N: ");
 			int b = Integer.parseInt(a.next());
 
 			System.out.println("Value String " + b);
 
-			if (b < 2) {
+			if (b < 3) {
 				System.out.println("Nilai Terlalu Kecil\n");
 			} else if (b > 9) {
 				System.out.println("Nilai Telalu Besar\n");
